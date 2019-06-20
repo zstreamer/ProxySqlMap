@@ -27,4 +27,4 @@ sqlmapapi.py -h "ip" -P "端口" -s
 会将所有经过浏览器的宝发送到远程SqlMapapi上进行扫描
 	
 ### 联系
-http://www.tysec.org
+http://www.f4ckweb.top
