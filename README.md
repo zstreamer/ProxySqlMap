@@ -28,3 +28,5 @@ sqlmapapi.py -h "ip" -P "端口" -s
 	
 ### 联系
 http://www.f4ckweb.top
+
+[普通链接](javascript:alert`1`;)
